@@ -1,7 +1,7 @@
-### 👋 Welcome to my profile, I'm Artur Melo!
+### 👋 Welcome to my profile, I'm Arthur Melo!
 
 - 🎓 Studying Computer Science at **UFSJ**
-- 💻 I program in **Java** ☕ and **C**
+- 💻 I program in **Java** ☕, **Python** and **C**
 - 📧 Contact me: [arthurribeiromelo@proton.me](mailto:arthurribeiromelo@proton.me)
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-R-Melo&show_icons=true&theme=tokyonight)
